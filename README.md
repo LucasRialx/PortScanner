@@ -32,10 +32,9 @@ O script verifica as seguintes portas comuns:
 ## Como Usar
 
 1. **Clone o repositório:**
-
-   ```bash
-   git clone https://github.com/LucasRialx/PortScanner.git
-   ```
+````
+git clone https://github.com/LucasRialx/PortScanner.git
+````
 2. **Navegue até o diretório do projeto:**
 ```
 cd nome-do-repositorio
