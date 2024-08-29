@@ -36,16 +36,16 @@ O script verifica as seguintes portas comuns:
    ```bash
    git clone https://github.com/LucasRialx/PortScanner.git
    ```
-Navegue até o diretório do projeto:
+2. **Navegue até o diretório do projeto:**
 ```
 cd nome-do-repositorio
 ```
 
-Execute o script:
+3. **Execute o script:**
 ```
 python port_scanner.py
 ```
-Escolha uma das opções:
+4. **Escolha uma das opções:**
 
 Verificar uma porta específica.
 Verificar as portas comuns.
