@@ -62,7 +62,7 @@ Porta 80 aberta
 ```
 
 ## Requisitos
-Python 3.x
+Python 3.12.5
 
 ## Licença
 Este projeto está licenciado sob a MIT License.
