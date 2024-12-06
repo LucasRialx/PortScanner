@@ -1,8 +1,7 @@
 # Port Scanner
 
 
-![img1](https://github.com/user-attachments/assets/1d371f3c-c001-4937-9818-76de7391e1c1)![img2](https://github.com/user-attachments/assets/13dfe291-f5d7-4d67-a736-0cc8fa28dc2b)
-
+![img1](https://github.com/user-attachments/assets/1d371f3c-c001-4937-9818-76de7391e1c1)
 
 Este é um simples script em Python que realiza a verificação de portas em um endereço IP local. Ele permite que você escolha entre verificar uma porta específica ou realizar a verificação em portas comuns.
 
@@ -32,6 +31,8 @@ O script verifica as seguintes portas comuns:
 - **OpenVPN** (Porta 1194)
 - **PPTP** (Porta 1723)
 - **IKE** (Porta 500)
+
+![img2](https://github.com/user-attachments/assets/13dfe291-f5d7-4d67-a736-0cc8fa28dc2b)
 
 ## Como Usar
 
