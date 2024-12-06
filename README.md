@@ -1,5 +1,9 @@
 # Port Scanner
 
+
+![img1](https://github.com/user-attachments/assets/1d371f3c-c001-4937-9818-76de7391e1c1)![img2](https://github.com/user-attachments/assets/13dfe291-f5d7-4d67-a736-0cc8fa28dc2b)
+
+
 Este é um simples script em Python que realiza a verificação de portas em um endereço IP local. Ele permite que você escolha entre verificar uma porta específica ou realizar a verificação em portas comuns.
 
 ## Funcionalidades
