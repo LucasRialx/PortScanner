@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Port Scanner</title>
+    <link rel="stylesheet" href="static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Port Scanner</h1>
+            <p>Descubra informações sobre portas abertas no seu dispositivo.</p>
+        </header>
+        <main>
+            <div class="ip-section">
+                <button id="get-ip-btn">Obter IP Local</button>
+                <p id="ip-result"></p>
+            </div>
+            <div class="options-section">
+                <h2>Escolha uma opção</h2>
+                <button class="option-btn" id="check-specific-port">Verificar Porta Específica</button>
+                <button class="option-btn" id="check-common-ports">Verificar Portas Comuns</button>
+            </div>
+            <div class="result-section">
+                <h2>Resultado</h2>
+                <div id="result-output"></div>
+            </div>
+        </main>
+    </div>
+    <script src="static/script.js"></script>
+</body>
+</html>
